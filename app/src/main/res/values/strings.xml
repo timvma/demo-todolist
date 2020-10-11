@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Todolist</string>
+    <string name="add">追加</string>
+    <string name="hint_enter">入力する</string>
+</resources>
